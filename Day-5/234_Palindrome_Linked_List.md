@@ -12,14 +12,14 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://github.com/KC191/50-Days-Coding-Challenge/blob/7200e5c7ff18de7c426196ecbeb141454462eaa7/Day-5/pal1linked-list.jpg" style="width: 422px; height: 62px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2021/03/03/pal1linked-list.jpg" style="width: 422px; height: 62px;" />
 <pre>
 <strong>Input:</strong> head = [1,2,2,1]
 <strong>Output:</strong> true
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://github.com/KC191/50-Days-Coding-Challenge/blob/7200e5c7ff18de7c426196ecbeb141454462eaa7/Day-5/pal2linked-list.jpg" style="width: 182px; height: 62px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2021/03/03/pal2linked-list.jpg" style="width: 182px; height: 62px;" />
 <pre>
 <strong>Input:</strong> head = [1,2]
 <strong>Output:</strong> false
