@@ -12,7 +12,7 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://github.com/KC191/50-Days-Coding-Challenge/blob/9300f726d18117d2ce65444dc6459781f2de90d1/Day-6/removelinked-list.jpg" style="width: 500px; height: 142px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2021/03/06/removelinked-list.jpg" style="width: 500px; height: 142px;" />
 <pre>
 <strong>Input:</strong> head = [1,2,6,3,4,5,6], val = 6
 <strong>Output:</strong> [1,2,3,4,5]
