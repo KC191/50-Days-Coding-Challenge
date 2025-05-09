@@ -17,7 +17,7 @@
 </ul>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>https://fastly.jsdelivr.net/gh/doocs/leetcode@main
+<p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2021/11/16/eg1drawio.png" style="width: 500px; height: 77px;" />
 <pre>
 <strong>Input:</strong> head = [1,3,4,7,1,2,6]
